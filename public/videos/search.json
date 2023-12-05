@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Nwdm3AqNQn7iUx8JZEQMKYcq-Co",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+      "totalResults": 78118,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "D8AwUtcxQ7dDHROBfT80VQVFhdA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "HYKDUF8X3qI"
+          },
+          "snippet": {
+              "publishedAt": "2023-05-25T12:00:13Z",
+              "channelId": "UCrL69sErRwEyr7_p0qVCkOQ",
+              "title": "Learn React Hooks: useContext - Simply Explained!",
+              "description": "Join The Discord! → https://discord.cosdensolutions.io Source Code ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/HYKDUF8X3qI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/HYKDUF8X3qI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/HYKDUF8X3qI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Cosden Solutions",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-05-25T12:00:13Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "5Bs5m3-fGQ_91TaVx420J7kynhM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "5LrDIWkK_Bc"
+          },
+          "snippet": {
+              "publishedAt": "2020-06-27T16:00:01Z",
+              "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+              "title": "Learn useContext In 13 Minutes",
+              "description": "IMPORTANT: Full React Course: https://courses.webdevsimplified.com/learn-react-today 1 Year Free Hosting: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5LrDIWkK_Bc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5LrDIWkK_Bc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5LrDIWkK_Bc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Web Dev Simplified",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-06-27T16:00:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "-mhp8sewE7UZupSPLrKCaNbUClM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "_HdrLsyAdJg"
+          },
+          "snippet": {
+              "publishedAt": "2022-06-02T20:33:15Z",
+              "channelId": "UCv5hfm9m-SlMepJp6XsxLpA",
+              "title": "useContext In 2 Minutes - the React Hooks series",
+              "description": "reacthooks #react #javascript Stay tuned for the rest of the React Hooks Videos.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/_HdrLsyAdJg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/_HdrLsyAdJg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/_HdrLsyAdJg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Atomic Code",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-06-02T20:33:15Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "YmoIcM3oz3ykwIvC3YKTgIxiys8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "LwvXVEHS638"
+          },
+          "snippet": {
+              "publishedAt": "2022-01-15T11:35:53Z",
+              "channelId": "UCDfJ2rNZsANU6ZNYNlzDJ5Q",
+              "title": "React Hooks에 취한다 - useContext + Context API | 리액트 훅스 시리즈",
+              "description": "리액트 훅스 중에 가장 멋진 useContext! 아주 아주 쉽게 설명해드릴게요. index.css (강의에서 사용된 CSS) ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/LwvXVEHS638/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/LwvXVEHS638/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/LwvXVEHS638/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "별코딩",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-01-15T11:35:53Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "i7vEks0ENntTH7iHa2kwYsu-VqA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "5ianRgE5ByU"
+          },
+          "snippet": {
+              "publishedAt": "2022-10-01T12:58:22Z",
+              "channelId": "UCZUyPT9DkJWmS_DzdOi7RIA",
+              "title": "useContext Hook Introduction - React Tutorial 46",
+              "description": "Start your software dev career - https://calcur.tech/dev-fundamentals ⚛️ FREE React Course (download & bonus content) ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5ianRgE5ByU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5ianRgE5ByU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5ianRgE5ByU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Caleb Curry",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-01T12:58:22Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "wXPkh9Ia6S4VLrgf_RnrPxfcILA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ngVvDegsAW8"
+          },
+          "snippet": {
+              "publishedAt": "2021-08-10T13:00:32Z",
+              "channelId": "UCY38RvRIxYODO4penyxUwTg",
+              "title": "State Management in React | Context API useContext | React Tutorials for Beginners",
+              "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap Learn State Management in React with this ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ngVvDegsAW8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ngVvDegsAW8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ngVvDegsAW8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dave Gray",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-08-10T13:00:32Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_Kk84be4crepAOaOufuidQlNH_k",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "I7dwJxGuGYQ"
+          },
+          "snippet": {
+              "publishedAt": "2023-08-08T10:00:22Z",
+              "channelId": "UCf6AGqO98eGk11nfazociVQ",
+              "title": "Always Use a Custom Hook for Context API, Not useContext (React Context API, TypeScript)",
+              "description": "Consume your context with a custom hook, not with useContext... Professional JavaScript Course: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/I7dwJxGuGYQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/I7dwJxGuGYQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/I7dwJxGuGYQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "ByteGrad",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-08-08T10:00:22Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Y7gnJEqzVtZgr-nCdbU2D_ayToA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "FzBGqvxdxv0"
+          },
+          "snippet": {
+              "publishedAt": "2022-08-04T13:00:07Z",
+              "channelId": "UC8S4rDRZn6Z_StJ-hh7ph8g",
+              "title": "ReactJS Course [9] - UseContext Hook | State Management",
+              "description": "React Beginner to Advanced Course 2022! In this course I will be going over everything you need to know to go from a complete ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/FzBGqvxdxv0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/FzBGqvxdxv0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/FzBGqvxdxv0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "PedroTech",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-08-04T13:00:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "ZU_N7n6piDF1CNket5aTxyT8NcI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CeyqosSakOQ"
+          },
+          "snippet": {
+              "publishedAt": "2023-10-03T08:06:01Z",
+              "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+              "title": "Apprendre React : Le hook useContext",
+              "description": "Article ▻ https://grafikart.fr/tutoriels/react-contextes-1335 On a vu dans un chapitre précédent qu'on pouvait faire descendre ou ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CeyqosSakOQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CeyqosSakOQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CeyqosSakOQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Grafikart.fr",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-10-03T08:06:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "e09j9dp-YvxHRIQfcS1pz0-qOaI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "sP7ANcTpJr8"
+          },
+          "snippet": {
+              "publishedAt": "2020-12-16T12:47:43Z",
+              "channelId": "UC8S4rDRZn6Z_StJ-hh7ph8g",
+              "title": "Context API Tutorial For Beginners - Using React Hooks",
+              "description": "In this video I will teach you guys how to use the Context API for State Management in React. We will be using the CreateContext ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/sP7ANcTpJr8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/sP7ANcTpJr8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/sP7ANcTpJr8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "PedroTech",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-12-16T12:47:43Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "dpFAfpULqNrnX7VkarePK6zijR4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "MpdFj8MEuJA"
+          },
+          "snippet": {
+              "publishedAt": "2022-02-14T15:53:03Z",
+              "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+              "title": "Mastering React Context: Do you NEED a state manager?",
+              "description": "Context in React is a super valuable tool, but can it replace a state manager? Let's find out! Daishi's Book: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/MpdFj8MEuJA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/MpdFj8MEuJA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/MpdFj8MEuJA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Jack Herrington",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-14T15:53:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "v1Q6T1umYa5E9B90eNO-jkcPvt4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "QPEB3ZQLTZY"
+          },
+          "snippet": {
+              "publishedAt": "2019-03-15T13:21:05Z",
+              "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+              "title": "Урок 3. Введение в React Hooks: useContext",
+              "description": "Получить профессию Frontend разработчика - https://bit.ly/3n2yT8p Подробнее узнать об обучении в Result School ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/QPEB3ZQLTZY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/QPEB3ZQLTZY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/QPEB3ZQLTZY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Владилен Минин",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-03-15T13:21:05Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Q6MT8IZVu2-rDyw5gqlZOE3PCDc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "05ZM4ymK9Nc"
+          },
+          "snippet": {
+              "publishedAt": "2022-12-23T14:00:00Z",
+              "channelId": "UCY38RvRIxYODO4penyxUwTg",
+              "title": "Context API React + Typescript | useContext &amp; useReducer Examples",
+              "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap Learn how to use the Context API with React + ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/05ZM4ymK9Nc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/05ZM4ymK9Nc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/05ZM4ymK9Nc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dave Gray",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-12-23T14:00:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "pmyXSsXEDFqrMiWeqZ8kwbW4OHI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "rbtTb9hLYS8"
+          },
+          "snippet": {
+              "publishedAt": "2021-09-14T12:30:25Z",
+              "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+              "title": "React TypeScript Tutorial - 14 - useContext Hook",
+              "description": "Courses - https://learn.codevolution.dev/ ⚡️ Checkout Taskade! https://www.taskade.com/ Support UPI ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/rbtTb9hLYS8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/rbtTb9hLYS8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/rbtTb9hLYS8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Codevolution",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-09-14T12:30:25Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "mKHglDYZS0eVDOQFHf7-Nhd4Tu8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "tEqNSOhCHLU"
+          },
+          "snippet": {
+              "publishedAt": "2019-06-24T11:33:43Z",
+              "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+              "title": "React Hooks Tutorial - 16 - useContext Hook Part 2",
+              "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/tEqNSOhCHLU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/tEqNSOhCHLU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/tEqNSOhCHLU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Codevolution",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-06-24T11:33:43Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "0E9bOgdE3XXHbGlKWVn9EKaqZYA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "QthVk4LXjVE"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-28T06:16:10Z",
+              "channelId": "UCeKE6wQHTt5JpS9_RsH4hrg",
+              "title": "useContext ใช้เมื่อไหร่ ใช้ทำไม ดูจบบรรลุ! 👨‍💻💯",
+              "description": "สมัครเป็นสมาชิกของช่องนี้เพื่อเป็นกำลังใจให้ผมผลิตเนื้อหาความรู้ดีๆ ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/QthVk4LXjVE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/QthVk4LXjVE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/QthVk4LXjVE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Patiphan Phengpao",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-28T06:16:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "zvWg6LzSZDUCbcllQHNMLxQbhOs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "TNhaISOUy6Q"
+          },
+          "snippet": {
+              "publishedAt": "2021-01-18T18:20:26Z",
+              "channelId": "UCsBjURrPoezykLs9EqgamOA",
+              "title": "10 React Hooks Explained // Plus Build your own from Scratch",
+              "description": "React hooks provide a highly-efficient was to tap into framework features and organize reactive logic. Learn how use every built-in ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/TNhaISOUy6Q/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/TNhaISOUy6Q/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/TNhaISOUy6Q/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Fireship",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-01-18T18:20:26Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "B9ep6qu2SeNUXTt7cCSo3OaVksg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "coM0JK6o3mo"
+          },
+          "snippet": {
+              "publishedAt": "2021-09-05T13:22:22Z",
+              "channelId": "UCeVMnSShP_Iviwkknt83cww",
+              "title": "useContext hook: Using React Context API | Complete React Course in Hindi #58",
+              "description": "useContext hook accepts a context object (the value returned from React.createContext) and returns the current context value for ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/coM0JK6o3mo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/coM0JK6o3mo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/coM0JK6o3mo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "CodeWithHarry",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-09-05T13:22:22Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "aPZJyUa4Ea5S65HI-uVeQ3n5uok",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "3yrMcx02jXs"
+          },
+          "snippet": {
+              "publishedAt": "2022-03-17T18:32:10Z",
+              "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+              "title": "React Context API Tutorial | Quick and Easy",
+              "description": "Check out my courses to become a PRO! https://developedbyed.com/ React Context API allows us to manage and organize our ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3yrMcx02jXs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3yrMcx02jXs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3yrMcx02jXs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "developedbyed",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-03-17T18:32:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "mV0ghtnuO7mA9b7EtD2Z0Psaz8g",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "TENin-HxvRg"
+          },
+          "snippet": {
+              "publishedAt": "2021-11-03T08:45:11Z",
+              "channelId": "UCNSCWwgW-rwmoE3Yc4WmJhw",
+              "title": "React Context &amp; useContext() hook",
+              "description": "Bạn muốn học lập trình hiệu quả hơn không? Hãy học tại trang web http://fullstack.edu.vn thay vì Youtube. Lý do tại sao mời bạn ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/TENin-HxvRg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/TENin-HxvRg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/TENin-HxvRg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "F8 Official",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-11-03T08:45:11Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "gLj9GzvHQqjgHgEcq61YwTUz2Bg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "uyI8vBC3Uj0"
+          },
+          "snippet": {
+              "publishedAt": "2021-07-24T14:07:25Z",
+              "channelId": "UCyLNhHSiEVkVwPSFKxJAfSA",
+              "title": "useContext Crash Course - Manage State Globally with this React Hook",
+              "description": "This is one video of a larger React Hooks series. In this video, we cover useContext, which is a very popular hook to manage state ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/uyI8vBC3Uj0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/uyI8vBC3Uj0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/uyI8vBC3Uj0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Laith Academy",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-07-24T14:07:25Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "CiicTqADdv20isP1eo4AfuGT14Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "oJzoElYfYyQ"
+          },
+          "snippet": {
+              "publishedAt": "2023-06-11T16:21:49Z",
+              "channelId": "UCLcFW31aAxyqsDxtALNnVTw",
+              "title": "06- React Hooks - useContext [ARABIC]",
+              "description": "تابع السلسلة كاملة من هنا https://www.youtube.com/watch?v=M019FaLAByg&list=PLPTNqXpQ2tbhYmCeh8H4TR_UokYUxhD8R ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/oJzoElYfYyQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/oJzoElYfYyQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/oJzoElYfYyQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Nour Homsi",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-06-11T16:21:49Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "02prEUuPF06GerScc5W1k8JcN2Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "gQ_l-1zpVBo"
+          },
+          "snippet": {
+              "publishedAt": "2021-07-06T13:45:11Z",
+              "channelId": "UCIPZVAwDGa-A4ZJxCBvXRuQ",
+              "title": "React Context API with Project | useContext Hook | createContext | State Management Tutorial",
+              "description": "Reactjs #ContextAPI #useContext #reactcontext Learn Context API by making simple Shopping Cart Project in React JS in one ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/gQ_l-1zpVBo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/gQ_l-1zpVBo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/gQ_l-1zpVBo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "RoadsideCoder",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-07-06T13:45:11Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "HJen3UH2tL8mbfvG6ucT8xDAiyc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CI7EYWmRDJE"
+          },
+          "snippet": {
+              "publishedAt": "2019-06-24T11:27:18Z",
+              "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+              "title": "React Hooks Tutorial - 15 - useContext Hook Part 1",
+              "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CI7EYWmRDJE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CI7EYWmRDJE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CI7EYWmRDJE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Codevolution",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-06-24T11:27:18Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "OoSCHCXwmuR5hgwpwywX0rSsYGw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "OEPBHO6aGcI"
+          },
+          "snippet": {
+              "publishedAt": "2022-05-25T08:07:53Z",
+              "channelId": "UCYcBEebHKfCZZKigbGa5Kpg",
+              "title": "React Context in 1 minute",
+              "description": "In this short video, I explain how React Context works to avoid prop drilling in React components and to serve as global state.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/OEPBHO6aGcI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/OEPBHO6aGcI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/OEPBHO6aGcI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Deeecode The Web",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-05-25T08:07:53Z"
+          }
+      }
+  ]
+}

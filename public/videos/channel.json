@@ -1,0 +1,712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "CsJJ34DwWT8obxpRINgvna4kH20",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+      "totalResults": 1579,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "OuOX8wQ4k1V8iZhAMsKYk21khhU",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew"
+          },
+          "snippet": {
+              "publishedAt": "2015-11-23T09:26:44Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "편집하는여자",
+              "description": "프리미어프로 애프터이펙트로 밥 먹고 사는 편집녀의 영상채널📽️ #프리미어프로 #애프터이펙트 #유튜브영상편집.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKYgU6ebGxjYOjlG25xi8ppKJOzbPSErBA6aVRO_=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKYgU6ebGxjYOjlG25xi8ppKJOzbPSErBA6aVRO_=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKYgU6ebGxjYOjlG25xi8ppKJOzbPSErBA6aVRO_=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2015-11-23T09:26:44Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "cT9wbTT6F2YwL1AER2n5TSFtKdg",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCZSnZwhxoJ5EUk4aWNASiGg"
+          },
+          "snippet": {
+              "publishedAt": "2021-11-11T09:54:54Z",
+              "channelId": "UCZSnZwhxoJ5EUk4aWNASiGg",
+              "title": "편집녀",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/q8SIIFK48D_bKsLH6g4AMEDDb2CX4aZIc-nX6tlL3s4StJidk4imElVeLS5SF4gg_CuhNfBNEDw=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/q8SIIFK48D_bKsLH6g4AMEDDb2CX4aZIc-nX6tlL3s4StJidk4imElVeLS5SF4gg_CuhNfBNEDw=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/q8SIIFK48D_bKsLH6g4AMEDDb2CX4aZIc-nX6tlL3s4StJidk4imElVeLS5SF4gg_CuhNfBNEDw=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "편집녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-11-11T09:54:54Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Qhrd4xJk2s68NmrEUpTaXOXn6Fw",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCM1CbBpxRg_-FOutzAXjuLg"
+          },
+          "snippet": {
+              "publishedAt": "2014-02-28T09:49:13Z",
+              "channelId": "UCM1CbBpxRg_-FOutzAXjuLg",
+              "title": "조블리 영상편집&디자인 클래스🎬",
+              "description": "영상 편집 아~무 것도 몰라도 조블리 클래스와 함께라면 누구나 금손이 될 수 있어요! 1:1 과외받듯 친절하고 자세히 배워보아요♥ ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/Sj4nZ92Y7UVIwmkSN_eDaribOirrFOTd4t8i8Tzy9dV3VfcLwZG6fMbJ6Jj3vKhiac8hKN3b=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/Sj4nZ92Y7UVIwmkSN_eDaribOirrFOTd4t8i8Tzy9dV3VfcLwZG6fMbJ6Jj3vKhiac8hKN3b=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/Sj4nZ92Y7UVIwmkSN_eDaribOirrFOTd4t8i8Tzy9dV3VfcLwZG6fMbJ6Jj3vKhiac8hKN3b=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "조블리 영상편집&디자인 클래스🎬",
+              "liveBroadcastContent": "none",
+              "publishTime": "2014-02-28T09:49:13Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "0Z-b1CtkF1CGfwIMC2XLfBsiSRA",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UC0lde7lyiJgeLtmXh__Y0gA"
+          },
+          "snippet": {
+              "publishedAt": "2012-06-26T10:33:41Z",
+              "channelId": "UC0lde7lyiJgeLtmXh__Y0gA",
+              "title": "편집녀",
+              "description": "틱톡 편집녀.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/F9ZDPHyPAoaRejv0d9Eo9KSgNh5jHiiTBy68hgFt0NncfkRGi2-mOUhmNsnERdjipohknk6n-A=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/F9ZDPHyPAoaRejv0d9Eo9KSgNh5jHiiTBy68hgFt0NncfkRGi2-mOUhmNsnERdjipohknk6n-A=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/F9ZDPHyPAoaRejv0d9Eo9KSgNh5jHiiTBy68hgFt0NncfkRGi2-mOUhmNsnERdjipohknk6n-A=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "편집녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2012-06-26T10:33:41Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "jcO67VYnNhJuIvhEWXhTa0IYTEs",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCSymu0ep6SfDqyi47dVEGlg"
+          },
+          "snippet": {
+              "publishedAt": "2021-09-20T11:15:35Z",
+              "channelId": "UCSymu0ep6SfDqyi47dVEGlg",
+              "title": "편집녀",
+              "description": "편집하는여자.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/otk8B5S5RlqSS-wX_gSCcAd-Nr73yO0Jp5-u9hUmCOIbsVDcEKb5mio960H0A-BsM_3UtbDFFAI=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/otk8B5S5RlqSS-wX_gSCcAd-Nr73yO0Jp5-u9hUmCOIbsVDcEKb5mio960H0A-BsM_3UtbDFFAI=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/otk8B5S5RlqSS-wX_gSCcAd-Nr73yO0Jp5-u9hUmCOIbsVDcEKb5mio960H0A-BsM_3UtbDFFAI=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "편집녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-09-20T11:15:35Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "gH3JzBR4KHNChQJo74_9__ZnkhU",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCSDZcLsantT_0nd8gCiHB0Q"
+          },
+          "snippet": {
+              "publishedAt": "2021-02-15T06:45:47Z",
+              "channelId": "UCSDZcLsantT_0nd8gCiHB0Q",
+              "title": "펜트하우스편집녀",
+              "description": "구독과 좋아요는 저에게 큰힘이 됩니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbym5Yhkq9XsLM24XX1I8F5pkjBjSfFR5hTprmm=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbym5Yhkq9XsLM24XX1I8F5pkjBjSfFR5hTprmm=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbym5Yhkq9XsLM24XX1I8F5pkjBjSfFR5hTprmm=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "펜트하우스편집녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-02-15T06:45:47Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "WpO1GlGKGCLpTlHlLuV6p9VuzFw",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCOQem5s7dD_b-_i2yLXFRYA"
+          },
+          "snippet": {
+              "publishedAt": "2016-05-30T11:29:38Z",
+              "channelId": "UCOQem5s7dD_b-_i2yLXFRYA",
+              "title": "YouTube편집녀",
+              "description": "구독&좋아요 부탁드려유.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKYZSk2iUMbGqwZkCGkjmVeRdOsrfLI8DJIjqfjoWA=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKYZSk2iUMbGqwZkCGkjmVeRdOsrfLI8DJIjqfjoWA=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKYZSk2iUMbGqwZkCGkjmVeRdOsrfLI8DJIjqfjoWA=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "YouTube편집녀",
+              "liveBroadcastContent": "upcoming",
+              "publishTime": "2016-05-30T11:29:38Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "66o8Y5huF0dIQvi3POCKWuQadME",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCC8SSdvobrwTidJh7VOZVng"
+          },
+          "snippet": {
+              "publishedAt": "2020-06-05T12:12:38Z",
+              "channelId": "UCC8SSdvobrwTidJh7VOZVng",
+              "title": "귀칼편집녀_연진 (떡상 한다!!!!)",
+              "description": "100명:손글씨 공개 200명:눈공 500명:목공.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/qhZwYTmzWrlEFDyJ2R2Cu0CbMqpqf8NiFBcf4Ezzr9YarTQ4kPBop8S9FGtbfEcl3ecPub0cxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/qhZwYTmzWrlEFDyJ2R2Cu0CbMqpqf8NiFBcf4Ezzr9YarTQ4kPBop8S9FGtbfEcl3ecPub0cxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/qhZwYTmzWrlEFDyJ2R2Cu0CbMqpqf8NiFBcf4Ezzr9YarTQ4kPBop8S9FGtbfEcl3ecPub0cxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "귀칼편집녀_연진 (떡상 한다!!!!)",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-06-05T12:12:38Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "DRhJmMnJZzKNU2D83_lOcY56sC8",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCL_oJaSlrjtvf772agFvgYQ"
+          },
+          "snippet": {
+              "publishedAt": "2016-02-02T09:41:14Z",
+              "channelId": "UCL_oJaSlrjtvf772agFvgYQ",
+              "title": "편좋남 편집좋아하는남자",
+              "description": "편집좋아하는남자, 편좋남 편집영상, 경기분석 영상 :) 유튜브만 함.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbN6gOgRShHmhgVZwTDpCjBXQUWZJx7mv6dGTTksg=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbN6gOgRShHmhgVZwTDpCjBXQUWZJx7mv6dGTTksg=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbN6gOgRShHmhgVZwTDpCjBXQUWZJx7mv6dGTTksg=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "편좋남 편집좋아하는남자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2016-02-02T09:41:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "asSNx6vrQpuAlDzdsLSG1q6Lu-U",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCzgWKhiDOhCGxzuY5f2jFEQ"
+          },
+          "snippet": {
+              "publishedAt": "2017-12-10T10:48:13Z",
+              "channelId": "UCzgWKhiDOhCGxzuY5f2jFEQ",
+              "title": "녜유리YOUTUDE편집녀",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKb0HH1zHHHWbL480yIbFu8bjc63pZNQMm27Hig=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKb0HH1zHHHWbL480yIbFu8bjc63pZNQMm27Hig=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKb0HH1zHHHWbL480yIbFu8bjc63pZNQMm27Hig=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "녜유리YOUTUDE편집녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-12-10T10:48:13Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "EsgmmUqcuFn2V5_ul4Dwy4brehc",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCYpD5IVQK9BjA2qtupHFExA"
+          },
+          "snippet": {
+              "publishedAt": "2017-05-23T02:15:06Z",
+              "channelId": "UCYpD5IVQK9BjA2qtupHFExA",
+              "title": "JohnKOBA Design",
+              "description": "포토샵 #애프터이펙트 #디자인팁 #존코바 안녕하세요, 존코바입니다. 10년차 모션그래픽 디자이너로 포토샵, 애프터이펙트, 디자인 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZIwvWqvU-rztcHDr7iCnLZ6wVxRmebi6ApivFg=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZIwvWqvU-rztcHDr7iCnLZ6wVxRmebi6ApivFg=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZIwvWqvU-rztcHDr7iCnLZ6wVxRmebi6ApivFg=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "JohnKOBA Design",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-05-23T02:15:06Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "pUyaZHHoAPBM9AlQvnwkruPceG8",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCNlyYPmscITfi4ZYLgk62Nw"
+          },
+          "snippet": {
+              "publishedAt": "2017-07-01T13:48:27Z",
+              "channelId": "UCNlyYPmscITfi4ZYLgk62Nw",
+              "title": "JK메디컬교정센터",
+              "description": "문의 이메일 dudwkdnjsenakr@hanmail.net.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZ3AeUSofaLikP09aewloalvKFxjz-j9xckMIBHNQ=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZ3AeUSofaLikP09aewloalvKFxjz-j9xckMIBHNQ=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZ3AeUSofaLikP09aewloalvKFxjz-j9xckMIBHNQ=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "JK메디컬교정센터",
+              "liveBroadcastContent": "upcoming",
+              "publishTime": "2017-07-01T13:48:27Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "r0kNyk7PJ-xxdLBG2k0q0bl4p6I",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCca_6t1C7tfQO620ZNtSycQ"
+          },
+          "snippet": {
+              "publishedAt": "2021-09-07T14:03:14Z",
+              "channelId": "UCca_6t1C7tfQO620ZNtSycQ",
+              "title": "검정 편집녀",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/OtV4by37s6jZRZfcqXPLvg7ByuN1MGG0ONRaTJ5upQNA99BuVTeWNXKSwQ9XtfhyGXUkypsEXQ=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/OtV4by37s6jZRZfcqXPLvg7ByuN1MGG0ONRaTJ5upQNA99BuVTeWNXKSwQ9XtfhyGXUkypsEXQ=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/OtV4by37s6jZRZfcqXPLvg7ByuN1MGG0ONRaTJ5upQNA99BuVTeWNXKSwQ9XtfhyGXUkypsEXQ=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "검정 편집녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-09-07T14:03:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "YsV0u2zu32pi5fakRfIllH-X6_U",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCcsVmVPrTxGczgossra7duA"
+          },
+          "snippet": {
+              "publishedAt": "2019-10-09T02:19:01Z",
+              "channelId": "UCcsVmVPrTxGczgossra7duA",
+              "title": "리베{액괴 편집녀}",
+              "description": "안녕하세요 리베입니다! 저는보통 다른 분들의 액괴 무편집영상을 가져와서 실시간 하는 척(?) 영상을 만듭니다! 나이: 12녀 반모 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKaBV1aWCBWkK423pRCN1b6Ibyltm9fLgwvoYQ=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKaBV1aWCBWkK423pRCN1b6Ibyltm9fLgwvoYQ=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKaBV1aWCBWkK423pRCN1b6Ibyltm9fLgwvoYQ=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "리베{액괴 편집녀}",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-10-09T02:19:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Je9D6F7U5dgy2dS2rbKkQnOKE3A",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCm4Tw1iyS6F3g3FP_69bP3w"
+          },
+          "snippet": {
+              "publishedAt": "2017-01-09T13:38:39Z",
+              "channelId": "UCm4Tw1iyS6F3g3FP_69bP3w",
+              "title": "귀하편집녀(감기라 쉬는중😅)본계",
+              "description": "여러분 귀칼편집녀 부계가 귀하라서 저도 이제 귀하라고 불러주세요.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/emKvsSHY9PVDKX2AxOaUH0HKLizIq9t7go07FPPRH5ppqi_8jFQpxGdyoxTan0tT4pTVRkq7CvM=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/emKvsSHY9PVDKX2AxOaUH0HKLizIq9t7go07FPPRH5ppqi_8jFQpxGdyoxTan0tT4pTVRkq7CvM=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/emKvsSHY9PVDKX2AxOaUH0HKLizIq9t7go07FPPRH5ppqi_8jFQpxGdyoxTan0tT4pTVRkq7CvM=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "귀하편집녀(감기라 쉬는중😅)본계",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-01-09T13:38:39Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "yav9sbcPgARBpTvh363coj5QPXU",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCe9f9MVu4WVCA3tVWtgSswA"
+          },
+          "snippet": {
+              "publishedAt": "2013-07-26T16:30:11Z",
+              "channelId": "UCe9f9MVu4WVCA3tVWtgSswA",
+              "title": "뷰티풀너드",
+              "description": "광고 문의: beautifulnerd@metacomedy.net.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/P5HXQNMuTDRWwudWf7SyRX47GmPQvgo3hfpEniFCAA6vhSFBjU8oEVqHStEErz2PjJXMhuK3nw=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/P5HXQNMuTDRWwudWf7SyRX47GmPQvgo3hfpEniFCAA6vhSFBjU8oEVqHStEErz2PjJXMhuK3nw=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/P5HXQNMuTDRWwudWf7SyRX47GmPQvgo3hfpEniFCAA6vhSFBjU8oEVqHStEErz2PjJXMhuK3nw=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "뷰티풀너드",
+              "liveBroadcastContent": "none",
+              "publishTime": "2013-07-26T16:30:11Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "kd7H3gLuz-GWvxeCFx8aTNlceWI",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UC0JG_PODzBXS5bYs5uoONlw"
+          },
+          "snippet": {
+              "publishedAt": "2018-10-31T13:52:28Z",
+              "channelId": "UC0JG_PODzBXS5bYs5uoONlw",
+              "title": "지읒asmr",
+              "description": "옷정보 밀감몰⬇️ 아녀라세여 지으시빈다 djdlrk1235@gmail.com.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/vkC0Fc3EqdPcizIvlqwOPZb9GlwVkA1zrV-1clFBbyTgnhWBzt7RmvvAyls_O58nMlNSY3iHbw=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/vkC0Fc3EqdPcizIvlqwOPZb9GlwVkA1zrV-1clFBbyTgnhWBzt7RmvvAyls_O58nMlNSY3iHbw=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/vkC0Fc3EqdPcizIvlqwOPZb9GlwVkA1zrV-1clFBbyTgnhWBzt7RmvvAyls_O58nMlNSY3iHbw=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "지읒asmr",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-10-31T13:52:28Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "gZaSTlCf3uWAnO6C1HjZQRxUVm8",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCOXQ1-wS71j2j7lnioWDUxA"
+          },
+          "snippet": {
+              "publishedAt": "2021-09-05T09:33:03Z",
+              "channelId": "UCOXQ1-wS71j2j7lnioWDUxA",
+              "title": "편집남촬영녀",
+              "description": "잘부탁드립니다. 초보차박캠핑 커플입니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/rJHAqrXhviJg52S49r6c7PxIZTxnsSt4PsHKIsUJ-la66yNXahb5RE3WSS9vcwa1Q1lPdnCZMmw=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/rJHAqrXhviJg52S49r6c7PxIZTxnsSt4PsHKIsUJ-la66yNXahb5RE3WSS9vcwa1Q1lPdnCZMmw=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/rJHAqrXhviJg52S49r6c7PxIZTxnsSt4PsHKIsUJ-la66yNXahb5RE3WSS9vcwa1Q1lPdnCZMmw=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "편집남촬영녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-09-05T09:33:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_d1TKEV3S-h1re6tVvgEOiZyFa8",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UC4vEnpbm4V08yxICKPAwdDg"
+          },
+          "snippet": {
+              "publishedAt": "2019-03-17T01:37:34Z",
+              "channelId": "UC4vEnpbm4V08yxICKPAwdDg",
+              "title": "Debbie's Cutting Point [데비의 편집점]",
+              "description": "애니메이션 분석, 요약 채널 [20분안짝애니] 업로드 요일 / 불규칙 (주로 일주일에 1~2편 업로드)",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKa4OBJGWPnN2UnRoIpM03ErXRGLyEwRZFH_F_0s=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKa4OBJGWPnN2UnRoIpM03ErXRGLyEwRZFH_F_0s=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKa4OBJGWPnN2UnRoIpM03ErXRGLyEwRZFH_F_0s=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "Debbie's Cutting Point [데비의 편집점]",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-03-17T01:37:34Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "3ejGGzlTJLgHaBzcrE70IqF7c6U",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCphGfKyGAoKDFgG9FGQiNqA"
+          },
+          "snippet": {
+              "publishedAt": "2022-06-07T11:14:27Z",
+              "channelId": "UCphGfKyGAoKDFgG9FGQiNqA",
+              "title": "편집진심녀",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/wh0rztmw3Nw-QN5I1g2SKGgtrZtZBU2q8ai7PbFblfz0W_BQnykonyq34kjmcM2uCEl3Hts11tw=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/wh0rztmw3Nw-QN5I1g2SKGgtrZtZBU2q8ai7PbFblfz0W_BQnykonyq34kjmcM2uCEl3Hts11tw=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/wh0rztmw3Nw-QN5I1g2SKGgtrZtZBU2q8ai7PbFblfz0W_BQnykonyq34kjmcM2uCEl3Hts11tw=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "편집진심녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-06-07T11:14:27Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Iz2hpRGd38cxkCbcOyP-X7tTycQ",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCTCYh96Ex4lRWMRg0YQvlIQ"
+          },
+          "snippet": {
+              "publishedAt": "2015-02-28T14:08:11Z",
+              "channelId": "UCTCYh96Ex4lRWMRg0YQvlIQ",
+              "title": "오사원 Oh!sales",
+              "description": "안녕하세요! 오사원의 공식 채널입니다. 편집에 모든것을 쏟아 붓는 만능(?) 편집충, 오사원의 매력에 풍~덩 빠지고 싶다면 '좋아요'와 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZxJbsevNiAAVlDn4tJ_k2zQsmpRpDu9ItOvC12HQ=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZxJbsevNiAAVlDn4tJ_k2zQsmpRpDu9ItOvC12HQ=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKZxJbsevNiAAVlDn4tJ_k2zQsmpRpDu9ItOvC12HQ=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "오사원 Oh!sales",
+              "liveBroadcastContent": "none",
+              "publishTime": "2015-02-28T14:08:11Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "fv307ihfQx2qSUfW8U0_WeMnPr0",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCLpMFYZyGpvbsViQAeMzxXQ"
+          },
+          "snippet": {
+              "publishedAt": "2018-05-08T12:29:03Z",
+              "channelId": "UCLpMFYZyGpvbsViQAeMzxXQ",
+              "title": "무편집녀꿀꿀한",
+              "description": "행벅한_아미  무편집 영상으로 찾아와용  허니들 사랑합니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbC6NusrMFdv7ceX3yFKuESPmMkfgglBxuH2C-T=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbC6NusrMFdv7ceX3yFKuESPmMkfgglBxuH2C-T=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbC6NusrMFdv7ceX3yFKuESPmMkfgglBxuH2C-T=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "무편집녀꿀꿀한",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-05-08T12:29:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "FpIErOBIQFHieFbfqA6LZBgb_Ys",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCGRaf3T0nDYS5CycAZYsn7Q"
+          },
+          "snippet": {
+              "publishedAt": "2023-08-09T04:12:33Z",
+              "channelId": "UCGRaf3T0nDYS5CycAZYsn7Q",
+              "title": "김수찬 사랑녀",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/gzbbbicxhJzkTccYdPQBWUm5M4bqX8djFE09LTBMlPX2jHAmXODg5wWLArm9Wm-Qa_JH1jJkdJc=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/gzbbbicxhJzkTccYdPQBWUm5M4bqX8djFE09LTBMlPX2jHAmXODg5wWLArm9Wm-Qa_JH1jJkdJc=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/gzbbbicxhJzkTccYdPQBWUm5M4bqX8djFE09LTBMlPX2jHAmXODg5wWLArm9Wm-Qa_JH1jJkdJc=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "김수찬 사랑녀",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-08-09T04:12:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "gbxQAo0ZbS2ydBkcCKBXS4zF6nU",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UC2-CXcEGCxL3iMLCKvHdPCA"
+          },
+          "snippet": {
+              "publishedAt": "2018-11-03T13:52:55Z",
+              "channelId": "UC2-CXcEGCxL3iMLCKvHdPCA",
+              "title": "컴공녀Hyeni",
+              "description": "잡튜버 컴공녀입니다 :) 리뷰, 편집꿀팁, 브이로그등을 업로드 하고 있습니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbjB7R7CcE_hRUqz1mKL8g7U8Bz3yG5zBUK1Dlb=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbjB7R7CcE_hRUqz1mKL8g7U8Bz3yG5zBUK1Dlb=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/APkrFKbjB7R7CcE_hRUqz1mKL8g7U8Bz3yG5zBUK1Dlb=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "컴공녀Hyeni",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-11-03T13:52:55Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "weL-xj8XlJqkGp34EYxdg_cubjQ",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCdCMvOt1q7kyKj4Gy03cPTQ"
+          },
+          "snippet": {
+              "publishedAt": "2022-03-30T10:30:57Z",
+              "channelId": "UCdCMvOt1q7kyKj4Gy03cPTQ",
+              "title": "편집 집착녀 엣프피",
+              "description": "박자편집하는 오타쿠 틱톡도놀러와주세염  (틱톡 아이디 유튜브랑 똑같습니당!)가끔 앙스타도 합니당  영상은 매주 토요일에 올립니 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/Yv2Qn-kjWk2QR7PqEizkow7GkDuMMFawM-phUaX47kFa42JrmHagoY39BDE2m1fbZ82BS2iwAA=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/Yv2Qn-kjWk2QR7PqEizkow7GkDuMMFawM-phUaX47kFa42JrmHagoY39BDE2m1fbZ82BS2iwAA=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/Yv2Qn-kjWk2QR7PqEizkow7GkDuMMFawM-phUaX47kFa42JrmHagoY39BDE2m1fbZ82BS2iwAA=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "편집 집착녀 엣프피",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-03-30T10:30:57Z"
+          }
+      }
+  ]
+}

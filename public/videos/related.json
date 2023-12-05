@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "K3e9o43K-BHnPoGFHZrNPfJBaak",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_ax2EA_O9TbtgZ-rR76NGJb7s1U",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "fs1FZzLHk3Y"
+          },
+          "snippet": {
+              "publishedAt": "2020-01-08T07:30:01Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 영상편집 처음이신가요? 10분만에 기본 영상편집 끝내기! 프리미어프로 2020 [편집하는여자]",
+              "description": "프리미어프로를 완전 처음 시작하시는 초보분들을 위한 영상입니다:D 영상 가져오기 / 컷편집 / 배경음악 삽입 / 오디오 볼륨 조절 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fs1FZzLHk3Y/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fs1FZzLHk3Y/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fs1FZzLHk3Y/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-01-08T07:30:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_Why9UtFTBHb64cUkC4PPt9qCng",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "YAX3Ntk1tJA"
+          },
+          "snippet": {
+              "publishedAt": "2023-10-26T05:00:14Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 2024 새로운 기능👍 무음 구간 자동 컷편집, Lumetri 패널 업그레이드 [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 프리미어프로 2024의 새로운 기능 정리와 개인적으로 가장 와 닿는 업데이트인 무음 구간 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/YAX3Ntk1tJA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/YAX3Ntk1tJA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/YAX3Ntk1tJA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-10-26T05:00:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "l2Qr0R0PfNFypmtrOQCj6VPQyiM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "PB14YBO3RTQ"
+          },
+          "snippet": {
+              "publishedAt": "2023-09-14T08:30:05Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "내가 쓸려고 만든 4k 움직이는 종이배경 영상소스 15종 드립니다❤️ [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 내가 쓸려고 만들었지만 여러분들에게 공유해드리는 움직이는 종이배경 영상소스 15종을 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/PB14YBO3RTQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/PB14YBO3RTQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/PB14YBO3RTQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-09-14T08:30:05Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "XaCpqFhx7XJrKqHEWd6wHJc3_9s",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "AFVF7qOVQRc"
+          },
+          "snippet": {
+              "publishedAt": "2023-10-16T08:00:05Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 무지개색이 마구 바뀌는 자막 효과 만들고 저장하기🌈 [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 프리미어프로에서 무지개색이 마구 바뀌는 자막효과를 만들고 자주쓰기 위해 저장까지 하는 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/AFVF7qOVQRc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/AFVF7qOVQRc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/AFVF7qOVQRc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-10-16T08:00:05Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "4Wsl5u2Cq0VU0t9QAPa-AIceDsg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "7sC6ZyLSNrU"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-28T07:00:03Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "아는 사람만 아는 프리미어프로 5가지 꿀팁 활용법 공유합니다👍 [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 프리미어프로를 사용하는 유저라면 알고 있으면 좋은 5가지 활용법에 대해서 들어가볼까 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/7sC6ZyLSNrU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/7sC6ZyLSNrU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/7sC6ZyLSNrU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-28T07:00:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "zsMm1ztnmxbl8XsDtnFLfwQVPqY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "O6Uj3R3JodE"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-23T07:00:11Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "슉슉 드래그만 해도 자막, 사진에 생동감 UP👍 프리미어프로 모션 프리셋 25종 받아가세요❤  [ 편집하는여자 ]",
+              "description": "안녕하세요! 편집하는여자입니다. 너무 튀지 않는 모션으로 어떤 영상에나 잘 어울리는 프리미어프로 전용 모션 프리셋 25종을 공유 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/O6Uj3R3JodE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/O6Uj3R3JodE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/O6Uj3R3JodE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-23T07:00:11Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "vDi9Jkera1Xm1cQ6IVZhKyDqb7U",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "MyxUqvr6Ynk"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-07T07:00:13Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "새로운 AI를 적용한 애프터이펙트 2024 로토브러시? 실험해보았습니다🔥 2023 vs 2024  [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 애프터이펙트 2024 중 새로운 AI 모델을 장착했다는 로토브러시 3.0에 대해 비교 리뷰를 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/MyxUqvr6Ynk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/MyxUqvr6Ynk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/MyxUqvr6Ynk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-07T07:00:13Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "cBbP7IoXMAJeCzb20QNzxTgUcQg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-iW59IemYy0"
+          },
+          "snippet": {
+              "publishedAt": "2023-10-05T06:00:00Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "효과만 만들기는 끝! 애프터이펙트 40개 영상 씬 만들기 클래스를 오픈하였습니다😊(with 패스트캠퍼스)",
+              "description": "안녕하세요! 편집하는여자입니다. 패스트캠퍼스에서 진행하는 편집하는여자의 프리미어프로와 애프터이펙트 클래스를 신청해주신 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-iW59IemYy0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-iW59IemYy0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-iW59IemYy0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-10-05T06:00:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "o2tRT0X8sHqZ8aR5JTC2DCx90Bo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "natRXBlCQMI"
+          },
+          "snippet": {
+              "publishedAt": "2023-08-11T08:00:21Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "모션그래픽 하고 싶지만 전공과 나이로 망설이시는 분들에게  [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 제가 충격을 받고 동기부여도 받았던 영상을 보여드릴까 합니다. 영상을 보고 나서 저도 막 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/natRXBlCQMI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/natRXBlCQMI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/natRXBlCQMI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-08-11T08:00:21Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Gq82zAk447-9FT1S5-fU-I4-FWQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "jcrn20ggfoI"
+          },
+          "snippet": {
+              "publishedAt": "2023-06-14T07:00:15Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 자막 프리셋으로 3D 예능 자막 뚝딱 만들기 [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 프리미어프로로 뻗어나가는 3D 예능 자막을 만들어보는 자막 프리셋에 대해서 들어가 볼까 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/jcrn20ggfoI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/jcrn20ggfoI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/jcrn20ggfoI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-06-14T07:00:15Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "GqgWutu-1b3Pu3SD4Stme6r1_MY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kXa2dWmop9Y"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-07T07:00:21Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 레트로 카세트 테이프 인트로 만들기 + 디테일 연결이 포인트🎬 [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 프리미어프로를 통해 카세트테이프 느낌 브이로그 인트로를 만들어볼까 합니다:D 특히 이번 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kXa2dWmop9Y/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kXa2dWmop9Y/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kXa2dWmop9Y/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-07T07:00:21Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "EODLaRJeXGhTVFXqtrVgh0oqeiA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "z8bu6JtaLnI"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-19T07:00:33Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "배경을 만들어주는 AI?👀 Generative Fill로 영상의 배경을 확장해보자! [편집하는여자 ]  프리미어프로+포토샵 ​",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 배경을 생성해주는 AI인 Generative Fill을 이용해서 영상의 배경을 확장시켜주는 방법에 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/z8bu6JtaLnI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/z8bu6JtaLnI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/z8bu6JtaLnI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-19T07:00:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "-ip96rpZeOIkzLsGEa8G6rhIjFI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kJBImSAKlG0"
+          },
+          "snippet": {
+              "publishedAt": "2022-04-16T09:00:18Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "당신이 그저 그런 유튜브 편집자인 이유 - 편집자로 성공하려면 &#39;이걸&#39; 꼭 해보세요!  [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 유튜브 편집자를 꿈꾸는 분들이나 유튜브 편집자로 활동하고 계시는 분들이 한번 쯤은 보면 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kJBImSAKlG0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kJBImSAKlG0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kJBImSAKlG0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-04-16T09:00:18Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "bgNtSyfZ6ogj3pVjfzoJblYonWU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "2g25C2QyFvE"
+          },
+          "snippet": {
+              "publishedAt": "2020-12-01T07:00:01Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로로 초간단 피부 보정하는 2가지 방법✌ [편집하는여자] Premiere Pro Skin Smoothing",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 프리미어프로를 사용해서 간단하게 피부톤을 보정하는 방법에 대해서 알아볼거에요^_^ ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/2g25C2QyFvE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/2g25C2QyFvE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/2g25C2QyFvE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-12-01T07:00:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "OKSPVEyHsNCjlv3AUgbtK8jZAho",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "8GiMNWT8610"
+          },
+          "snippet": {
+              "publishedAt": "2020-11-12T07:00:01Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "유튜브 편집에 많이 쓰이는 프리미어프로 모션 자막 템플릿 10종 겟겟하자! [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다:) 오늘은 제가 쓰려고 제작해놓은 모션자막 템플릿 10종을 여러분들에게 공유해드릴까해요:) 유튜브 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/8GiMNWT8610/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/8GiMNWT8610/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/8GiMNWT8610/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-12T07:00:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Z_ze1Hb9Tt5xNopOBxwSbyoZ7S4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "AQjsHtuZaUA"
+          },
+          "snippet": {
+              "publishedAt": "2020-02-06T07:30:00Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 종이가 말리면서 찢어지는 감성 인트로 효과 만들기 [편집하는여자] Premiere Pro Paper Intro",
+              "description": "프리미어프로 강좌! 오늘은 감성인트로를 원하시는 분들을 위한 종이가 말리면서 찢어지는 인트로 효과를 만들어보았습니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/AQjsHtuZaUA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/AQjsHtuZaUA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/AQjsHtuZaUA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-02-06T07:30:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "EgMSjET-v5la2dNg28oTHrJ-KOE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "oncFq7wzKNY"
+          },
+          "snippet": {
+              "publishedAt": "2018-02-09T14:28:53Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 화면이 열리는 시네마틱 인트로 만들기! 여행동영상 MV에서도 쓸 수 있어요! Premiere Pro cinematic Intro tutorial [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 프리미어프로강좌 화면이 열리는 시네마틱 인트로 만들기 여행동영상 또는 MV에서도 쓸 수 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/oncFq7wzKNY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/oncFq7wzKNY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/oncFq7wzKNY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-02-09T14:28:53Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "ZnKorAd45wmLRqf6MrmnWNqGiwQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "zuAEukRi7Es"
+          },
+          "snippet": {
+              "publishedAt": "2022-06-22T07:00:30Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 2022 프록시 편집! 저사양 PC에서도 4K 영상편집을 쾌적하게! PROXY 해보자~ [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 프리미어프로에서 프록시 편집을 한번 해볼까 합니다. 프록시(PROXY)편집은 저사양 PC ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zuAEukRi7Es/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zuAEukRi7Es/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zuAEukRi7Es/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-06-22T07:00:30Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "BvMcj9CfebrH_5fYjW-B9ZHpOCI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-1ZeLP3tw5M"
+          },
+          "snippet": {
+              "publishedAt": "2023-08-29T07:00:00Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 생동감있는 자동 말자막 만들기🔥 모션 프리셋도 적용 가능! [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 자동 말자막 클립에 모션을 넣어서 말자막을 조금 더 생동감있게 만드는 방법에 대해서 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-1ZeLP3tw5M/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-1ZeLP3tw5M/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-1ZeLP3tw5M/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-08-29T07:00:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "ah_RLlCbaXhzzhZ68YEIZwfA_wc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "c9H82KSpUTc"
+          },
+          "snippet": {
+              "publishedAt": "2020-12-15T07:00:07Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 폴라로이드 사진이 날라오는 인트로 만들어보쟈!📸✨  [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 폴라로이드 사진이 날라온 후에, 사진쪽으로 채널명이 보이는 유튜브 인트로를 만들어 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/c9H82KSpUTc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/c9H82KSpUTc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/c9H82KSpUTc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-12-15T07:00:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "dTJnQX0DyZUH4B4dbgcoaoK5Wj4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "jbKAoZFBFRs"
+          },
+          "snippet": {
+              "publishedAt": "2021-03-19T07:00:35Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 화면에 글자가 매달린듯한  3D 카메라 트랙킹 해보자!  [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 프리미어프로로 화면에 글자가 매달려있는 듯한 3D 카메라 트랙킹을 해볼꺼에요! 역동적인 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/jbKAoZFBFRs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/jbKAoZFBFRs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/jbKAoZFBFRs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-03-19T07:00:35Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "BimTPrO40GUFwhR8mN1xt8AjA5E",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "_B7ZsZclVfg"
+          },
+          "snippet": {
+              "publishedAt": "2021-03-11T07:00:04Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "나만 알기 아까운 영상제작자 필수 웹사이트 BEST 7🎬 [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 저만 알기 아까운 영상제작자 필수 웹사이트 7가지에 대해 이야기해보았어요. 웹사이트와 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/_B7ZsZclVfg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/_B7ZsZclVfg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/_B7ZsZclVfg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-03-11T07:00:04Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "70VPAVj7BuTVrKVH1nOCicWDdvQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "NhCaAf2CKBI"
+          },
+          "snippet": {
+              "publishedAt": "2019-11-18T07:30:01Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "영상을 따라다니는 자막 만드는법 2가지! 프리미어프로 &amp; 애프터이펙트 트랙킹 (Feat. 워크맨 편집 따라하기)",
+              "description": "오늘은 영상을 따라다니는 자막 만드는 법 2가지에 대해서 소개합니다. 1. 프리미어프로를 활용하여 위치 키프레임을 만들어나가는 것 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/NhCaAf2CKBI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/NhCaAf2CKBI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/NhCaAf2CKBI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-11-18T07:30:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "6CvSyPDxf-eWsthobdkn7UxyyL8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Q-Adwy89qqA"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-28T09:00:14Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "2프레임의 꿀팁으로 목소리 편집이 스무스해지는 프리미어프로 TIP👍",
+              "description": "프리미어프로로 영상 편집할 때 목소리 부분이 튄다면 2프레임만 삽입해주면 됩니다^_^ 다른 팁 더 보기 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Q-Adwy89qqA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Q-Adwy89qqA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Q-Adwy89qqA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-28T09:00:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "7evAZy0ZPKJgPqxzxr11Rgsxz9k",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "VmC-5qXhtRk"
+          },
+          "snippet": {
+              "publishedAt": "2020-04-27T07:30:00Z",
+              "channelId": "UCa9OXODEH6azPrc_OEBM-Ew",
+              "title": "프리미어프로 사진으로 감각적인 영상 만들어보아요!  [편집하는여자]",
+              "description": "안녕하세요! 편집하는여자입니다. 오늘은 사진만으로 감각적인 영상을 만드는 법에 대해 알아보아요! 여러분이 준비할 것은 사진만 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/VmC-5qXhtRk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/VmC-5qXhtRk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/VmC-5qXhtRk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "편집하는여자",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-04-27T07:30:00Z"
+          }
+      }
+  ]
+}
