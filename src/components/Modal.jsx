@@ -8,6 +8,7 @@ export default function Modal({
 	channel_id,
 	channel_title,
 	type,
+	user_id,
 }) {
 	const [new_section_title, setNewSectionTitle] = useState('');
 	const [hidden, setHidden] = useState(true);
@@ -31,33 +32,44 @@ export default function Modal({
 
 	const handleSave = async (e) => {
 		e.preventDefault();
+		let query = '';
+		let body = {};
 		if (selectedSection) {
 			console.log('Selected Section ID:', selectedSection);
+			query = '?section_id=' + selectedSection;
 		} else {
 			console.log('New Section Title:', new_section_title);
+			query = '?section_title=' + new_section_title + '&user_id=' + user_id;
+		}
+		if (type === 1) {
+			body.channel_id = channel_id;
+			body.title = channel_title;
+		} else {
+			body.title = video.title;
+			body.video_id = video.video_id;
+			body.channel_id = video.channel_id;
+			body.channel_title = video.channel_title;
+			body.description = video.description;
+			body.thumbnail_url = video.thumbnail_url;
+			body.publishedAt = video.publishedAt;
+		}
 
-			// 새로운 섹션을 서버로 전송
-			try {
-				const response = await client.post(
-					'/section/' + (type === 0 ? 'video' : 'channel'),
-					{
-						title: new_section_title,
-						// 기타 필요한 데이터도 같이 전송할 수 있습니다.
-					}
-				);
-				console.log('New Section Created:', response.data);
-
-				// 만들어진 섹션의 ID를 저장합니다.
-				setSelectedSection(response.data.id);
-			} catch (error) {
-				console.error('Error creating new section:', error);
-			}
+		try {
+			console.log('body', body);
+			const response = await client.post(
+				'/save/' + (type === 0 ? 'video' : 'channel') + query,
+				JSON.stringify(body),
+				{ headers: { 'Content-Type': 'application/json' } }
+			);
+			console.log('저장 결과', response.data);
+		} catch (error) {
+			console.error('저장 중 에러', error);
 		}
 	};
 
 	return (
-		<div className='relative flex col'>
-			<div className='bg-zinc-800 w-64 h-80 fixed z-100 top-30% left-44% p-4 '>
+		<div className='relative flex col center'>
+			<div className='bg-zinc-800 w-64 h-80 rounded-50 fixed z-100 top-50% left-50% p-4 '>
 				<p>저장할 섹션 선택</p>
 				<ul className='m-4'>
 					{section_list.map((section) => (

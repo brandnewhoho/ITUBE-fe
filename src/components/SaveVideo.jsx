@@ -4,12 +4,14 @@ import { useAuth } from '../context/AuthContext';
 import { useNavigate } from 'react-router-dom';
 import Modal from './Modal';
 
-export default function SaveVideo(video, channel_id, channel_title) {
+export default function SaveVideo({ video, channel_id, channel_title }) {
 	const [modal_open, setModalOpen] = useState(false);
 	const { isLoggedIn, user_id } = useAuth();
 	const navigate = useNavigate();
 	const [section_list, setSectionList] = useState([]);
 	const [type, setType] = useState('');
+	console.log('saveVideo start');
+	console.log('video', video);
 
 	const handleSaveVideo = async () => {
 		if (!isLoggedIn) {
@@ -57,6 +59,7 @@ export default function SaveVideo(video, channel_id, channel_title) {
 						channel_id={channel_id}
 						channel_title={channel_title}
 						type={type}
+						user_id={user_id}
 					/>
 				)}
 			</div>
