@@ -33,7 +33,7 @@ export default function LogIn() {
 				localStorage.setItem('token', token);
 				alert(`${nickname}님 로그인 되었습니다`);
 				login(nickname, user_id);
-				navigate('/home');
+				navigate('/main');
 			} else {
 				alert(message);
 			}
@@ -43,9 +43,9 @@ export default function LogIn() {
 	};
 
 	return (
-		<div className='max-w-md mx-auto'>
-			<h2 className='text-2xl font-bold mb-4'>로그인</h2>
-			<form onSubmit={handleSubmit} className='flex flex-col gap-4'>
+		<div className='max-w-md mx-auto grow'>
+			<h2 className='text-2xl font-bold mt-20 mb-6'>로그인</h2>
+			<form onSubmit={handleSubmit} className='flex flex-col gap-6'>
 				<input
 					type='email'
 					placeholder='이메일'
@@ -61,6 +61,15 @@ export default function LogIn() {
 					onChange={(e) => setPassword(e.target.value)}
 					className='px-5 py-2 rounded text-black outline-brand2 outline-offset-0'
 				/>
+				<div className='flex'>
+					<p className='text-sm basis-3/4 '>아직 회원 가입 안하셨다면</p>
+					<button
+						onClick={() => navigate('/auth/sign_up')}
+						className='basis-1/4'
+					>
+						[ 회원가입 ]
+					</button>
+				</div>
 				<button
 					type='submit'
 					className='bg-brand2 text-white p-2 rounded cursor-pointer'

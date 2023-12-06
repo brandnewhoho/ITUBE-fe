@@ -19,11 +19,11 @@ const router = createBrowserRouter([
 		errorElement: <NotFound />,
 		children: [
 			{ index: true, element: <Home /> },
-			{ path: 'home', element: <Main /> },
+			{ path: 'main', element: <Main /> },
 			{ path: 'videos/:keyword', element: <Videos /> },
 			{ path: 'videos/watch/:videoId', element: <VideoDetail /> },
 			{ path: 'auth/sign_up', element: <SignUp /> },
-			{ path: 'auth/log_in', element: <LogIn /> },
+			{ path: 'auth/sign_in', element: <LogIn /> },
 		],
 	},
 ]);

@@ -1,0 +1,78 @@
+.wrap-modal {
+	height: auto;
+}
+.wrap-modal .modal-title {
+	padding-bottom: 10px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.wrap-modal ul li {
+	display: flex;
+	align-items: center;
+	padding: 2px 0;
+}
+
+.wrap-modal ul li .radio-icon {
+	display: inline-block;
+	border-radius: 50%;
+	border: 1px solid #ccc;
+	width: 14px;
+	height: 14px;
+	position: relative;
+	margin: 0 8px 0 0;
+}
+.wrap-modal ul li .radio-icon:before {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 8px;
+	height: 8px;
+	margin: -4px 0 0 -4px;
+	background-color: #ccc;
+	border-radius: 50%;
+	content: '';
+	display: none;
+}
+.wrap-modal ul li input {
+	display: none;
+}
+.wrap-modal ul li input:checked + .radio-icon:before {
+	display: block;
+}
+.wrap-modal .ui-buttons {
+	padding: 10px 0;
+	display: flex;
+}
+.wrap-modal .rounded-full {
+	flex: auto;
+	margin: 0 5px;
+	background-color: #000;
+	color: #fff;
+	font-size: 14px;
+}
+.wrap-modal .btn-create {
+	text-align: center;
+	padding: 10px 0;
+	font-weight: bold;
+}
+.wrap-modal .input-form {
+	border-radius: 30px;
+	padding: 5px 10px;
+	width: 100%;
+
+	border: 1px solid rgba(204, 204, 204, 0.5);
+	display: block;
+	background: none;
+	outline: none;
+	font-size: 15px;
+}
+.wrap-save {
+	position: relative;
+}
+.view-modal {
+	position: absolute;
+	top: initial;
+	bottom: 0;
+	left: 100%;
+	margin-left: 5px;
+}

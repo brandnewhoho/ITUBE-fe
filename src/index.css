@@ -24,3 +24,53 @@ code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
 		monospace;
 }
+.wrap-modal {
+	height: auto;
+}
+.wrap-modal .modal-title {
+	padding-bottom: 10px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.wrap-modal ul {
+}
+.wrap-modal ul li {
+	display: flex;
+	align-items: center;
+	padding: 2px 0;
+}
+.wrap-modal .ui-buttons {
+	padding: 10px 0;
+	display: flex;
+}
+.wrap-modal .rounded-full {
+	flex: auto;
+	margin: 0 5px;
+}
+.wrap-modal .btn-create {
+	text-align: center;
+	padding: 10px 0;
+	font-weight: bold;
+}
+.wrap-modal .input-form {
+	border-radius: 30px;
+	padding: 10px;
+	width: 100%;
+
+	border: 1px solid rgba(204, 204, 204, 0.5);
+	display: block;
+	background: none;
+	outline: none;
+	font-size: 15px;
+}
+.label-title {
+	display: flex;
+	align-items: center;
+}
+.label-title .box-cate {
+	background-color: rgb(65, 65, 65);
+	border-radius: 3px;
+	color: rgba(255, 255, 255, 0.7);
+	padding: 3px 10px;
+	font-size: 13px;
+}

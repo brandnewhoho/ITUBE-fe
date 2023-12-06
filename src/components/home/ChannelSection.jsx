@@ -19,7 +19,9 @@ export default function ChannelSection({ section }) {
 
 	return (
 		<>
-			<h2 className='text-2xl '>{section.title}</h2>
+			<h2 className='text-2xl label-title'>
+				{section.title} <span class='box-cate'>채널</span>
+			</h2>
 			{isLoading && <p>Loading...</p>}
 			{error && <p>Something is wrong 😖</p>}
 			{videos && (

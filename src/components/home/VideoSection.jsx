@@ -6,7 +6,9 @@ export default function VideoSection({ section }) {
 	const videos = section.Videos;
 	return (
 		<>
-			<h2 className='text-2xl '>{section.title}</h2>
+			<h2 className='text-2xl label-title'>
+				{section.title} <span class='box-cate'>비디오</span>
+			</h2>
 			{videos && (
 				<ul className='grid grid-cols-5 gap-4 gap-y-6'>
 					{videos.map((video) => (

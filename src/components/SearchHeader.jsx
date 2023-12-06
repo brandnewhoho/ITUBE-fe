@@ -19,10 +19,10 @@ export default function SearchHeader() {
 	console.log('header isLoggedIn', isLoggedIn);
 	console.log('header nickname', nickname);
 	return (
-		<header className='w-full flex p-4 text-2xl border-b border-zinc-600 mb-4 items-center'>
-			<Link to='/home' className='flex items-center'>
+		<header className='w-full w-max-2xl flex p-4 text-2xl border-b border-zinc-600 mb-4 items-center'>
+			<Link to={isLoggedIn ? '/main' : '/'} className='flex items-center'>
 				<BsYoutube className='text-4xl text-brand2' />
-				<h1 className='font-bold ml-2 text-3xl'>Itube</h1>
+				<h1 className='font-bold ml-2 text-3xl'>ITUBE</h1>
 			</Link>
 			<form className='w-full flex justify-center' onSubmit={handleSubmit}>
 				<input
@@ -37,7 +37,7 @@ export default function SearchHeader() {
 				</button>
 			</form>
 			<div className={isLoggedIn ? 'hidden' : 'flex'}>
-				<Button name='LogIn' handleClick={() => navigate('/auth/log_in')} />
+				<Button name='LogIn' handleClick={() => navigate('/auth/sign_in')} />
 				<Button name='SignUp' handleClick={() => navigate('/auth/sign_up')} />
 			</div>
 			<div className={!isLoggedIn ? 'hidden' : 'flex items-center gap-2'}>

@@ -15,7 +15,8 @@ export default function SaveVideo({ video, channel_id, channel_title }) {
 
 	const handleSaveVideo = async () => {
 		if (!isLoggedIn) {
-			navigate('/auth/log_in');
+			alert('로그인이 필요한 서비스입니다');
+			navigate('/auth/sign_in');
 		}
 		const response = await client.get('/section/video/' + user_id);
 		console.log('get video section list:', response);
@@ -26,7 +27,8 @@ export default function SaveVideo({ video, channel_id, channel_title }) {
 
 	const handleSaveChannel = async () => {
 		if (!isLoggedIn) {
-			navigate('/auth/log_in');
+			alert('로그인이 필요한 서비스입니다');
+			navigate('/auth/sign_in');
 		}
 		const response = await client.get('/section/channel/' + user_id);
 		console.log('get channel section list:', response);
@@ -37,7 +39,7 @@ export default function SaveVideo({ video, channel_id, channel_title }) {
 	};
 
 	return (
-		<div className='flex justify-end gap-2 mb-2'>
+		<div className='flex justify-end gap-2 mb-2 wrap-save'>
 			<button
 				className='bg-zinc-600  rounded-full p-2'
 				onClick={handleSaveVideo}
@@ -50,7 +52,7 @@ export default function SaveVideo({ video, channel_id, channel_title }) {
 			>
 				채널저장
 			</button>
-			<div>
+			<div className='view-modal'>
 				{modal_open && (
 					<Modal
 						setModalOpen={setModalOpen}

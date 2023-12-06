@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import client from '../../api/client';
+import './modal.css';
 
 export default function Modal({
 	setModalOpen,
@@ -70,45 +71,54 @@ export default function Modal({
 
 	return (
 		<div className='relative flex col center'>
-			<div className='bg-zinc-800 w-64 h-80 rounded-50 fixed z-100 top-50% left-50% p-4 '>
-				<p>저장할 섹션 선택</p>
+			<div className='bg-zinc-800 w-64 h-80 rounded-50 p-4 wrap-modal'>
+				<p className='modal-title'>저장할 섹션 선택</p>
 				<ul className='m-4'>
 					{section_list.map((section) => (
 						<li key={section.id}>
-							<input
-								type='radio'
-								name='radio'
-								checked={selectedSection === section.id}
-								onChange={() => handleRadioChange(section.id)}
-								className='mr-2'
-							></input>
-							{section.title}
+							<label>
+								<input
+									type='radio'
+									name='radio'
+									checked={selectedSection === section.id}
+									onChange={() => handleRadioChange(section.id)}
+									className='mr-2'
+								></input>
+								<i className='radio-icon'></i>
+								{section.title}
+							</label>
 						</li>
 					))}
 				</ul>
-				<button className='w-full ' type='button' onClick={handleSectionAdd}>
+				<button
+					className='w-full btn-create'
+					type='button'
+					onClick={handleSectionAdd}
+				>
 					+ 섹션 만들기
 				</button>
 				<input
 					className={
-						hidden ? 'hidden' : 'outline-none border-0 bg-zinc-900 m-4'
+						hidden ? 'hidden' : 'input-form outline-none border-0 bg-zinc-900'
 					}
 					name='new_section_title'
 					value={new_section_title}
 					onChange={(e) => setNewSectionTitle(e.target.value)}
 				></input>
-				<button
-					onClick={handleSave}
-					className='rounded-full bg-zinc-900 w-12 h-10 text-sm'
-				>
-					확인
-				</button>
-				<button
-					onClick={closeModal}
-					className='rounded-full bg-zinc-900 w-12 h-10 text-sm'
-				>
-					취소
-				</button>
+				<div className='ui-buttons'>
+					<button
+						onClick={handleSave}
+						className='rounded-full bg-zinc-900 w-12 h-10 text-sm'
+					>
+						확인
+					</button>
+					<button
+						onClick={closeModal}
+						className='rounded-full bg-zinc-900 w-12 h-10 text-sm'
+					>
+						취소
+					</button>
+				</div>
 			</div>
 		</div>
 	);

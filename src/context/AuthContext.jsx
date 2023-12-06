@@ -14,9 +14,7 @@ export const AuthProvider = ({ children }) => {
 
 	async function tokenValidationCheck() {
 		const token = localStorage.getItem('token');
-		console.log('1       token', token);
 		if (token) {
-			console.log('2');
 			try {
 				const isValidToken = await client.get('/auth/validation', {
 					headers: {
@@ -26,7 +24,6 @@ export const AuthProvider = ({ children }) => {
 				console.log('토큰 검사 결과', isValidToken);
 				if (isValidToken.data.success) {
 					login(isValidToken.data.nickname, isValidToken.data.user_id);
-					console.log('login');
 				} else {
 					console.log('로그인이 필요합니다');
 				}

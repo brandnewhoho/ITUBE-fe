@@ -74,8 +74,8 @@ export default function SignUp() {
 
 	return (
 		<div className='max-w-md mx-auto'>
-			<h2 className='text-2xl font-bold mb-4'>회원가입</h2>
-			<form onSubmit={handleSubmit} className='flex flex-col gap-4'>
+			<h2 className='text-2xl font-bold mt-20 mb-6'>회원가입</h2>
+			<form onSubmit={handleSubmit} className='flex flex-col gap-6'>
 				<input
 					type='email'
 					placeholder='이메일'

@@ -5,7 +5,7 @@ body {
 	width: 100%;
 }
 .main-info {
-	padding: 120px 30px 120px 30px;
+	padding: 0 30px 120px 30px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -16,6 +16,10 @@ body {
 	display: block;
 	font-size: 40px;
 	font-weight: bold;
+}
+.main-info .label-main.type-start {
+	padding: 250px 0 0 0;
+	text-align: center;
 }
 .wrap-box {
 	display: flex;
@@ -58,6 +62,52 @@ body {
 	width: 100%;
 	flex: auto;
 	padding: 0 15px;
+}
+.info-det {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: relative;
+	height: 100vh;
+	margin-top: 0;
+	padding: 0 0 0 20px;
+	font-size: 20px;
+	color: #aaa;
+}
+.info-det:before {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: 0.1;
+	background: url(images/bg-main.png) no-repeat;
+	background-size: 100% 100%;
+	content: '';
+	transform: rotateX(53deg);
+}
+.info-det strong {
+	padding-bottom: 20px;
+	display: block;
+	font-size: 50px;
+	font-weight: bold;
+	color: #fff;
+}
+.ui-buttons {
+	text-align: center;
+	padding: 50px 0;
+}
+.ui-buttons button {
+	display: inline-block;
+	border-radius: 50px;
+	width: 175px;
+	line-height: 48px;
+	text-align: center;
+	font-size: 20px;
+	color: #000;
+	font-weight: 600;
+	background-color: #3ea6ff;
 }
 
 @media (max-width: 1200px) {
