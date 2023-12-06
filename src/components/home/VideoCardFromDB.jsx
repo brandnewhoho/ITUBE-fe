@@ -1,5 +1,5 @@
 import React from 'react';
-import { formatAgo } from '../util/date';
+import { formatAgo } from '../../util/date';
 import { useNavigate } from 'react-router-dom';
 
 export default function VideoCardFromDB({ video }) {

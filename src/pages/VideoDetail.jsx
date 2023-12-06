@@ -2,7 +2,7 @@ import React from 'react';
 import { useLocation } from 'react-router-dom';
 import ChannelInfo from '../components/ChannelInfo';
 import RelatedVideos from '../components/RelatedVideos';
-import SaveVideo from '../components/SaveVideo';
+import SaveVideo from '../components/save/SaveVideo';
 import { useAuth } from '../context/AuthContext';
 
 export default function VideoDetail() {

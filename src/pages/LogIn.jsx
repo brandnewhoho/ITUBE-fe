@@ -1,9 +1,7 @@
-// import axios from 'axios';
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
-// import validator from 'validator';
 
 export default function LogIn() {
 	const navigate = useNavigate();

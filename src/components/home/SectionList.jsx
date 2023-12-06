@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
-import client from '../api/client';
-import { useAuth } from '../context/AuthContext';
+import client from '../../api/client';
+import { useAuth } from '../../context/AuthContext';
 import ChannelSection from './ChannelSection';
 import VideoSection from './VideoSection';
 

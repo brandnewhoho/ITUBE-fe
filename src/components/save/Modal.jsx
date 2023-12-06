@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import client from '../api/client';
+import client from '../../api/client';
 
 export default function Modal({
 	setModalOpen,
@@ -65,6 +65,7 @@ export default function Modal({
 		} catch (error) {
 			console.error('저장 중 에러', error);
 		}
+		setModalOpen(false);
 	};
 
 	return (

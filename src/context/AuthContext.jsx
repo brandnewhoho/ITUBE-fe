@@ -13,26 +13,28 @@ export const AuthProvider = ({ children }) => {
 	}, []);
 
 	async function tokenValidationCheck() {
-		try {
-			const token = localStorage.getItem('token');
+		const token = localStorage.getItem('token');
+		console.log('1       token', token);
+		if (token) {
 			console.log('2');
-			if (token) {
-				console.log('3');
-				const isValidToken = await client.post('/auth/validation', null, {
+			try {
+				const isValidToken = await client.get('/auth/validation', {
 					headers: {
 						Authorization: 'Bearer ' + token,
 					},
 				});
-				console.log(isValidToken);
+				console.log('토큰 검사 결과', isValidToken);
 				if (isValidToken.data.success) {
 					login(isValidToken.data.nickname, isValidToken.data.user_id);
 					console.log('login');
+				} else {
+					console.log('로그인이 필요합니다');
 				}
-			} else {
-				console.log('로그인이 필요합니다');
+			} catch (error) {
+				console.log('토큰 검사 요청 시 오류', error);
 			}
-		} catch (error) {
-			console.error('token validation error', error);
+		} else {
+			console.log('로그인이 필요합니다');
 		}
 	}
 	const login = (nickname, user_id) => {
@@ -60,9 +62,6 @@ export const AuthProvider = ({ children }) => {
 	);
 };
 
-// export const useAuth = () => {
-// 	return useContext(AuthContext);
-// };
 export const useAuth = () => {
 	const context = useContext(AuthContext);
 	if (!context) {

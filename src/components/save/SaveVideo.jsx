@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import client from '../api/client';
-import { useAuth } from '../context/AuthContext';
+import client from '../../api/client';
+import { useAuth } from '../../context/AuthContext';
 import { useNavigate } from 'react-router-dom';
 import Modal from './Modal';
 

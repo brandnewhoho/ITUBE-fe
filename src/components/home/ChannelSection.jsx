@@ -1,6 +1,6 @@
 import React from 'react';
-import VideoCard from './VideoCard';
-import { useYoutubeApi } from '../context/YoutubeApiContext';
+import VideoCard from '../VideoCard';
+import { useYoutubeApi } from '../../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
 
 export default function ChannelSection({ section }) {

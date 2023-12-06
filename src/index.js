@@ -10,27 +10,28 @@ import VideoDetail from './pages/VideoDetail';
 import LogIn from './pages/LogIn';
 import SignUp from './pages/SignUp';
 import Home from './pages/Home';
+import Main from './pages/Main';
 
 const router = createBrowserRouter([
-  {
-    path: '/',
-    element: <App />,
-    errorElement: <NotFound />,
-    children: [
-      { index: true, element: <Home /> },
-      { path: 'home', element: <Home /> },
-      { path: 'videos/:keyword', element: <Videos /> },
-      { path: 'videos/watch/:videoId', element: <VideoDetail /> },
-      { path: 'auth/sign_up', element: <SignUp /> },
-      { path: 'auth/log_in', element: <LogIn /> },
-    ],
-  },
+	{
+		path: '/',
+		element: <App />,
+		errorElement: <NotFound />,
+		children: [
+			{ index: true, element: <Home /> },
+			{ path: 'home', element: <Main /> },
+			{ path: 'videos/:keyword', element: <Videos /> },
+			{ path: 'videos/watch/:videoId', element: <VideoDetail /> },
+			{ path: 'auth/sign_up', element: <SignUp /> },
+			{ path: 'auth/log_in', element: <LogIn /> },
+		],
+	},
 ]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <RouterProvider router={router} />
-  </React.StrictMode>
+	<React.StrictMode>
+		<RouterProvider router={router} />
+	</React.StrictMode>
 );
 
 reportWebVitals();
