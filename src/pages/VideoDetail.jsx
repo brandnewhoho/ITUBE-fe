@@ -36,7 +36,7 @@ export default function VideoDetail() {
 						type='text/html'
 						width='100%'
 						height='640'
-						src={'http://www.youtube.com/embed/' + formatted_video.video_id}
+						src={'https://www.youtube.com/embed/' + formatted_video.video_id}
 						style={{ border: 'none' }}
 					/>
 				</div>
