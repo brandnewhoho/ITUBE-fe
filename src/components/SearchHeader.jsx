@@ -42,7 +42,13 @@ export default function SearchHeader() {
 			</div>
 			<div className={!isLoggedIn ? 'hidden' : 'flex items-center gap-2'}>
 				<p className='whitespace-nowrap text-sm'>{nickname}님 반갑습니다!</p>
-				<Button name='LogOut' handleClick={() => logout(nickname)} />
+				<Button
+					name='LogOut'
+					handleClick={() => {
+						logout(nickname);
+						navigate('/');
+					}}
+				/>
 			</div>
 		</header>
 	);
