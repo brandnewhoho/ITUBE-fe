@@ -43,7 +43,6 @@ export default function SignUp() {
 
 	const handleSubmit = async (e) => {
 		e.preventDefault();
-		console.log('client');
 		if (!email || !password || !name || !nickname) {
 			alert('비어 있는 항목을 모두 채워주세요');
 			return;
