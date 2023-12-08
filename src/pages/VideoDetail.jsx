@@ -23,7 +23,7 @@ export default function VideoDetail() {
 	} else {
 		Object.assign(formatted_video, video);
 	}
-
+	console.log('formatted_video', formatted_video);
 	console.log('videoDetail : isLoggedIn', isLoggedIn);
 	return (
 		<section className='flex flex-col lg:flex-row'>
@@ -43,8 +43,8 @@ export default function VideoDetail() {
 				<div className='p-8'>
 					<h2 className='text-xl font-bold'>{formatted_video.title}</h2>
 					<ChannelInfo
-						channel_id={formatted_video.channel_id}
-						channel_title={formatted_video.channel_title}
+						id={formatted_video.channel_id}
+						name={formatted_video.channel_title}
 					/>
 					<SaveVideo
 						video={formatted_video}

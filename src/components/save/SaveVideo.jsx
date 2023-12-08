@@ -40,14 +40,11 @@ export default function SaveVideo({ video, channel_id, channel_title }) {
 
 	return (
 		<div className='flex justify-end gap-2 mb-2 wrap-save'>
-			<button
-				className='bg-zinc-600  rounded-full p-2'
-				onClick={handleSaveVideo}
-			>
+			<button className='bg-brand2 rounded-full p-2' onClick={handleSaveVideo}>
 				영상저장
 			</button>
 			<button
-				className='bg-zinc-600  rounded-full p-2'
+				className='bg-brand2  rounded-full p-2'
 				onClick={handleSaveChannel}
 			>
 				채널저장

@@ -107,7 +107,7 @@ body {
 	font-size: 20px;
 	color: #000;
 	font-weight: 600;
-	background-color: #3ea6ff;
+	/* background-color: #3ea6ff; */
 }
 
 @media (max-width: 1200px) {

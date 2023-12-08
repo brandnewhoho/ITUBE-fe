@@ -71,7 +71,7 @@ export default function Modal({
 
 	return (
 		<div className='relative flex col center'>
-			<div className='bg-zinc-800 w-64 h-80 rounded-50 p-4 wrap-modal'>
+			<div className='bg-zinc-800 w-64 h-80 rounded-lg p-4 wrap-modal'>
 				<p className='modal-title'>저장할 섹션 선택</p>
 				<ul className='m-4'>
 					{section_list.map((section) => (
@@ -105,16 +105,16 @@ export default function Modal({
 					value={new_section_title}
 					onChange={(e) => setNewSectionTitle(e.target.value)}
 				></input>
-				<div className='ui-buttons'>
+				<div className='flex gap-3 mt-4 justify-center'>
 					<button
 						onClick={handleSave}
-						className='rounded-full bg-zinc-900 w-12 h-10 text-sm'
+						className='rounded-md bg-zinc-500 w-16 h-8 text-sm text-white'
 					>
 						확인
 					</button>
 					<button
 						onClick={closeModal}
-						className='rounded-full bg-zinc-900 w-12 h-10 text-sm'
+						className='rounded-md bg-zinc-500 w-16 h-8 text-sm text-white mb-2'
 					>
 						취소
 					</button>

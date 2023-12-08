@@ -9,6 +9,8 @@ export default function ChannelInfo({ id, name }) {
 		() => youtube.channelImageURL(id),
 		{ staleTime: 1000 * 60 * 5 }
 	);
+	console.log('channel_info id', id);
+	console.log('channel_info name', name);
 	return (
 		<div className='flex my-4 mb-2 items-center'>
 			{url && <img className='w-10 h-10 rounded-full' src={url} alt={name} />}
